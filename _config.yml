@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jay"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://user-images.githubusercontent.com/51608410/59741336-b1195f80-92a5-11e9-8134-700a35120245.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer"
   location         : "Seoul, Korea"
   email            :
